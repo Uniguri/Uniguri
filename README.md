@@ -10,4 +10,5 @@ Hi, I'm Ju Chanhyoung (주찬형).
 - Computer Science Engineering, Chung-Ang Univ. (2022~)
 
 ## Bug Bounty
+- [512$] Nullptr Dereference in Animal Crossing: New Horizen (2023) (Team 게임뭐같이하네)
 - [512$] Multiplayer impairment in Super Mario Maker 2 (2023) (Team 게임뭐같이하네)
